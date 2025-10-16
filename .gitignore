@@ -1,0 +1,12 @@
+# Zig build artifacts
+zig-out/
+.zig-cache/
+
+# App data
+data/
+data_test/
+
+# Editors & OS files
+.DS_Store
+*.swp
+Thumbs.db
